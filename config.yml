@@ -1,0 +1,3 @@
+message:
+  enabled: true
+  text: '&cYou are too close to the entity you are shooting.'
